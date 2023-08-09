@@ -1,0 +1,14 @@
+body {
+  font-family: $text-primary;
+  color: #212529;
+  line-height: 24px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+  object-position: center center;
+}
